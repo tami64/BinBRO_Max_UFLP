@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Akan"
+  given-names: "Taymaz"
+  orcid: "https://orcid.org/0000-0003-4070-1058"
+- family-names: "Agahian"
+  given-names: "Saeid"
+  orcid: "https://orcid.org/0000-0003-2462-6166"
+- family-names: "Dehkharghani"
+  given-names: "Rahim"
+  orcid: "https://orcid.org/0000-0002-9619-8247"
+title: "BinBRO_UFLP"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-02-08
+url: "https://github.com/tami64/BinBRO_UFLP"
